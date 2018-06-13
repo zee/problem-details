@@ -1,13 +1,11 @@
 <?php
 /**
- * This file is part of Zee Project.
- *
- * @see https://github.com/zee/
+ * This file is part of {@see https://github.com/zee/ Zee Project}.
  */
 
 declare(strict_types=1);
 
-namespace Zee\Problems\Tests;
+namespace Zee\ProblemDetails\Tests;
 
 use PHPUnit\Framework;
 
